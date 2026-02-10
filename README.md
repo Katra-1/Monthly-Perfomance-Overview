@@ -1,6 +1,6 @@
 Revenue & Product Performance Dashboard
 
-![Dashboard Preview](./monthly_perfomance_overview.pdf)
+![Dashboard Preview](./dashboard_preview.png)
 
 Overview
 
