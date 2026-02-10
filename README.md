@@ -101,3 +101,6 @@ Tools & Skills Demonstrated
 Outcome
 
 The dashboard enables stakeholders to move from high-level performance monitoring to granular product and market insights within a single analytical space, supporting data-driven product and marketing decisions.
+
+Links
+- [Tableau Dashboard](https://public.tableau.com/views/MonthlyPerfomanceOverview/MonthlyPerfomanceOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
