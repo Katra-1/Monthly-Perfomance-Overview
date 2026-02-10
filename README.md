@@ -1,5 +1,7 @@
 Revenue & Product Performance Dashboard
 
+![Dashboard Preview](./monthly_perfomance_overview.pdf)
+
 Overview
 
 This project is an interactive analytics dashboard designed to analyze revenue, monetization, product performance, and user retention over time.
